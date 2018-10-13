@@ -1,12 +1,5 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: Mastermind
+PURPOSE OF PROJECT: To create a graphical user interface for the classic logic game Mastermind.
+DATE: Spring 2017
+AUTHORS: John Rabaey
+USER INSTRUCTIONS: This project was designed in BlueJ. To run the game, open the project using BlueJ, right-click on void main(String[] args), and click OK.
